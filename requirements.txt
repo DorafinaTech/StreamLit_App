@@ -1,0 +1,11 @@
+# requirements.txt
+
+openai
+
+streamlit
+
+json5
+
+google-generativeai
+
+requests
